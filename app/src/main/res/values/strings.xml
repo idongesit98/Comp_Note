@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NoteApp_Compose</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="color">Color</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="delete_note">Delete note</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="icon_name">Sort</string>
+
+</resources>
