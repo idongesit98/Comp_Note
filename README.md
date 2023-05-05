@@ -6,7 +6,7 @@ A Note app that demonstrate the use of some Android Development tools i have lea
 **Language:** Kotlin 100%
 
 ## Tools Used
-  *Dependency Injection
+  * Dependency Injection
   * Coroutines
   * Clean Architecture
   * Room
