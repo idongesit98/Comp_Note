@@ -19,8 +19,8 @@ A Note app that demonstrate the use of some Android Development tools i have lea
  __The Importance of Testing__
 
 ##### App Image
-<p align="End"><img src ="/image/first_App" alt ="App Image"></p>
-<p align="Center"><img src ="/image/first_App with RB" alt ="App Image"></p>
-<p align="Center"><img src ="/image/edit" alt ="App Image"></p>
+<p align="End"><img src ="/image/first_App.jpg" alt ="App Image"></p>
+<p align="Center"><img src ="/image/first_App with RB.jpg" alt ="App Image"></p>
+<p align="Center"><img src ="/image/edit.jpg" alt ="App Image"></p>
 
 
